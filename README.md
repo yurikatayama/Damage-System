@@ -1,4 +1,4 @@
-# DamageSystem Package Guide
+# DamageSystem
 
 A modular, decoupled damage and resource system for Unity. Drop it into any project and wire it up in minutes.
 
